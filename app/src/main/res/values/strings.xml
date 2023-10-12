@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="under">Under</string>
+    <string name="normal">Normal</string>
+    <string name="over">Over Weight</string>
+    <string name="obesity">obesity</string>
+</resources>
